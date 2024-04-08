@@ -15,7 +15,21 @@ their active user rate and other key metrics. They also wonder if they can optim
 3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 **Tools Used**
-
 **Database:** Ms Excel
-
 **BI Tool:** Power BI
+**CSV Given:** 
+dim_cities
+dim_dates
+dim_plan
+fact_gds_metrics
+fact_market_share
+fact_plan_revenue
+**Data Model:**
+![image](https://github.com/nupur711/GDS-Telecom-Sales-Analysis/assets/28728455/1559f863-effd-479d-bc1d-52cce5c98e6c)
+
+
+
+
+
+
+
